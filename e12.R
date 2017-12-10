@@ -1,3 +1,5 @@
+# Daba error al intentar subir el archivo
+
 boxplot(Nile,
         horizontal  =  T,  col = "gray",
         main = "Caudal del rio Nilo", xlab = "Caudal (10^8 m^3)")
